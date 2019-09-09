@@ -5,5 +5,5 @@ y = randint(0,100)
 print("Nick")
 print(x)
 print(y)
-print "Sum =",x+y
-print "Average =",(x+y)/2.0
+print("Sum =",x+y)
+print("Average =",(x+y)/2.0)
